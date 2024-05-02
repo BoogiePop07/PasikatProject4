@@ -159,10 +159,4 @@
 </html>
 
 
-<style>
 
-  .carousel-item {
-            transition: transform 0.6s ease;
-        }
-
-</style>
